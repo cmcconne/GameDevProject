@@ -503,14 +503,6 @@
             }
         },
         {
-            "Key": "5314e86e-87b5-4e09-8e06-5c9c8e8fa8c6",
-            "Value": {
-                "id": "7ed131d6-33d3-4874-8afb-4719827e6d04",
-                "resourcePath": "sprites\\BackgroundTileSet\\BackgroundTileSet.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "54a7d872-bf04-4144-a34c-754a7497b939",
             "Value": {
                 "id": "1c0a4f9d-1987-47cc-bb36-6f6920ffdd79",
@@ -1095,6 +1087,14 @@
             }
         },
         {
+            "Key": "b93625db-73c9-470b-b49e-325628b09d82",
+            "Value": {
+                "id": "1cad7da5-fa33-4459-93fd-1340283cc1a0",
+                "resourcePath": "objects\\obj_goal\\obj_goal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b986bd85-7096-4110-9171-ab15874c029d",
             "Value": {
                 "id": "e4e1f2a1-80e7-46c7-b875-c86638658598",
@@ -1215,6 +1215,14 @@
             }
         },
         {
+            "Key": "cc431dbf-65d9-4eb7-8e63-00994319e719",
+            "Value": {
+                "id": "6066a503-8a2d-45da-8602-3578e9c190f6",
+                "resourcePath": "sprites\\spr_goal\\spr_goal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9545d094-ed2f-4ba0-a224-d5dda8f7b8a8",
@@ -1268,14 +1276,6 @@
                 "id": "6ff4a529-0ddf-416d-bb2d-ec7ca0f0d16b",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Create_0.gml.dnd.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d2827938-4e51-40f9-aa96-1c0cdea361fa",
-            "Value": {
-                "id": "bf3104bd-ccfd-401c-b196-43a75dd50ed5",
-                "resourcePath": "tilesets\\BackgroundTilesetTile\\BackgroundTilesetTile.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -1556,6 +1556,14 @@
                 "id": "c67741ec-a640-4ccb-b196-708764cc8963",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\obj_missile.yy.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fa617136-b87e-4a1c-9b70-ca09ccd4f3f0",
+            "Value": {
+                "id": "cc2eb8de-4a16-47a8-9f06-a6c570b16ffd",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {

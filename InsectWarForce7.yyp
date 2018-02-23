@@ -1,14 +1,14 @@
 {
-    "id": "71d7f0d3-21b0-46ca-8624-3ae73ba7c564",
+    "id": "44216889-d7a4-4a19-be1d-440a94af8b44",
     "modelName": "GMProject",
     "mvc": "1.0",
-    "IsDnDProject": false,
+    "IsDnDProject": true,
     "configs": [
         
     ],
     "option_ecma": false,
     "parentProject": {
-        "id": "4bbb35f8-cdf5-48e8-8416-4b788ff84086",
+        "id": "63c0264e-e348-47c3-8ab6-4afd2c6a96c3",
         "modelName": "GMProjectParent",
         "mvc": "1.0",
         "alteredResources": [
@@ -18,7 +18,7 @@
                     "configDeltas": [
                         "inherited"
                     ],
-                    "id": "ba95ff5c-3a18-4766-b232-a057c891f200",
+                    "id": "72446b4e-254c-4ffb-b42f-acfb49f6d35a",
                     "resourcePath": "options\\main\\options_main.yy",
                     "resourceType": "GMMainOptions"
                 }
@@ -31,163 +31,1539 @@
     },
     "resources": [
         {
-            "Key": "000e119e-d83f-4cb6-b81f-3440609ea575",
+            "Key": "00c21bb8-f03e-4a0a-8bb6-8cc00083e192",
             "Value": {
-                "id": "04352300-8513-4376-924a-c7c5bf56f0b0",
-                "resourcePath": "views\\000e119e-d83f-4cb6-b81f-3440609ea575.yy",
+                "id": "e11282a5-34cd-4224-918b-6cdce4b675f7",
+                "resourcePath": "datafiles_yy\\Space War\\views\\c06f4522-dbd4-48eb-812e-b5050938a7ec.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0166c8c8-b2af-4b30-92a6-a1ed9feb4cb3",
+            "Value": {
+                "id": "931e53ea-4dd5-45cb-bf3a-96bc97ce98bc",
+                "resourcePath": "views\\0166c8c8-b2af-4b30-92a6-a1ed9feb4cb3.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "1a90e32c-6502-48ae-a5e0-1ebd821eef91",
+            "Key": "028ed028-932e-44c7-8084-46c7b74886d2",
             "Value": {
-                "id": "64b7d151-bba5-44c8-aae5-624c37f2a5af",
-                "resourcePath": "views\\1a90e32c-6502-48ae-a5e0-1ebd821eef91.yy",
+                "id": "58a9247c-0a0a-4893-85aa-21381aadae64",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Collision_bd605db7-b4f5-4fe7-8bfc-f8114c0e62bd.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "063a568d-0103-43bb-b686-3d7084f1e78b",
+            "Value": {
+                "id": "570ca11d-4958-432c-8a73-c9f3a44e34b4",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\843a61cf-d436-4f95-898a-22cb50531175\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "08b64d97-90c6-49e6-aea9-35f1f233363b",
+            "Value": {
+                "id": "a1e3e00a-7554-43aa-a2b3-2c36d39db238",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\obj_sun.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0aa674cf-43da-4813-8f5e-21ac0d5d6ab6",
+            "Value": {
+                "id": "179cd781-c1e6-4c3c-b987-9e33821209bc",
+                "resourcePath": "views\\0aa674cf-43da-4813-8f5e-21ac0d5d6ab6.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "2d8162d6-2dcc-43c5-a702-3a39456de71b",
+            "Key": "0b01f6e5-899e-4a1e-ba56-a0ecd2fe0318",
             "Value": {
-                "id": "4a9995e1-d7d5-4242-a0c4-6a8cbe4d2dfe",
-                "resourcePath": "views\\2d8162d6-2dcc-43c5-a702-3a39456de71b.yy",
+                "id": "33fe8bf4-80ba-421f-b9de-694fda554858",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\691c3712-0ff3-4806-a4f6-c74eb67dfc24.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0cf62af4-013a-47b8-95da-d6e7f8c3156c",
+            "Value": {
+                "id": "cb0b5ef1-5fd9-492f-96a6-6ccf2b00a5f4",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0cfe498a-1401-42f7-8480-5ea208334032",
+            "Value": {
+                "id": "4b283b38-3c00-4962-9d4d-3d5cc1a76891",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\spr_sun.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0d377d2a-2fbb-4c72-9c73-82a166156c43",
+            "Value": {
+                "id": "bb2fd49b-2c84-42c1-8a9a-71b3216d35dc",
+                "resourcePath": "datafiles_yy\\Space War\\views\\b76b7837-5cbd-4cb3-b681-e66dbd9b4bf9.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0d69b2c0-1203-4150-80bf-db597f63968b",
+            "Value": {
+                "id": "fe3993af-9539-49e5-8891-5ddcc5bf960b",
+                "resourcePath": "views\\0d69b2c0-1203-4150-80bf-db597f63968b.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "33a26ae4-3b02-4bc8-bcbb-790605c7018d",
+            "Key": "0ee26c5f-e923-4efe-919a-4350c1502b3f",
             "Value": {
-                "id": "3b3aecb8-9df7-46c0-8bd4-de5259d4e284",
-                "resourcePath": "views\\33a26ae4-3b02-4bc8-bcbb-790605c7018d.yy",
+                "id": "3172c99f-3e53-41a0-a2e1-b79875a7eb74",
+                "resourcePath": "views\\0ee26c5f-e923-4efe-919a-4350c1502b3f.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "352a860f-9d86-45d5-b14b-33732016b468",
+            "Key": "0ef06e86-d037-45df-b54d-e2e2ccbfdfd1",
             "Value": {
-                "id": "23f704e6-007d-4da4-b4df-ba215e8d5320",
-                "resourcePath": "views\\352a860f-9d86-45d5-b14b-33732016b468.yy",
+                "id": "5003ffb0-7b2b-4a3d-873b-95035dbf041d",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Collision_bd605db7-b4f5-4fe7-8bfc-f8114c0e62bd.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "10b0756d-f0ee-4f35-a360-5e7560ab5f0a",
+            "Value": {
+                "id": "2614058c-a84f-4fe0-ba46-2cd3ecf0397d",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_1.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "137b0cd6-8b1f-49bc-8409-f4845a5c40ca",
+            "Value": {
+                "id": "e9b402d9-5d79-4fe6-b036-6a72305a9afb",
+                "resourcePath": "views\\137b0cd6-8b1f-49bc-8409-f4845a5c40ca.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "39bbe03a-82bf-495c-b9e9-6af3f1444fca",
+            "Key": "140041fe-d943-4eb0-adef-658fa92b5714",
             "Value": {
-                "id": "136f1439-3bb7-484b-9072-0707d0300d9b",
-                "resourcePath": "views\\39bbe03a-82bf-495c-b9e9-6af3f1444fca.yy",
+                "id": "a50ce888-bc4a-4fbc-92d0-c3a09c2ab601",
+                "resourcePath": "views\\140041fe-d943-4eb0-adef-658fa92b5714.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "4ab92313-eb37-4eb4-a2d9-bc2256304bb6",
+            "Key": "1731e82a-984e-4f15-a33b-d6cb6d7cd054",
             "Value": {
-                "id": "03be2def-4d0d-4d2e-9467-593861714b90",
-                "resourcePath": "views\\4ab92313-eb37-4eb4-a2d9-bc2256304bb6.yy",
+                "id": "87f3c437-72a0-494f-85e6-93a63bb70f75",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\69f6730b-1eb3-41b4-947b-83eb53679b9e.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "19403f88-ef13-40bb-ad8a-2430c34a1f4f",
+            "Value": {
+                "id": "fb598e13-8783-487e-91d8-521c1ad54e68",
+                "resourcePath": "views\\19403f88-ef13-40bb-ad8a-2430c34a1f4f.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "4bb5003f-5a8b-4d27-8632-5aa2d108b647",
+            "Key": "1a259ad5-2a3c-4f11-9a68-24723d6488e8",
             "Value": {
-                "id": "19470fa1-622f-4f60-96e0-8fd5395c5faf",
+                "id": "9bbb303b-dead-4af9-82ce-f72a989ab7d8",
+                "resourcePath": "views\\1a259ad5-2a3c-4f11-9a68-24723d6488e8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a77b8c3-d396-46e9-83a2-c930fc29af42",
+            "Value": {
+                "id": "3e8c0c19-63b8-4f99-84a2-61be89282805",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1aa287d8-2da7-4fb4-8c69-4bfd7bd190c6",
+            "Value": {
+                "id": "3a9a1add-cf36-473b-ba63-ea3bf0131270",
+                "resourcePath": "views\\1aa287d8-2da7-4fb4-8c69-4bfd7bd190c6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1c279df1-7df7-4af7-bbb1-bdaee6fbe3ec",
+            "Value": {
+                "id": "239de57f-f1b2-453f-a8da-497213eff1b7",
+                "resourcePath": "views\\1c279df1-7df7-4af7-bbb1-bdaee6fbe3ec.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1c370ae1-b536-4499-ace0-9e6fd915a3df",
+            "Value": {
+                "id": "2bf74ea2-d492-4859-99fc-76560cf6b20e",
+                "resourcePath": "datafiles_yy\\Space War\\Space War.yyp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1cba6a53-98d9-44f3-9c06-51d03b5a6f38",
+            "Value": {
+                "id": "7003b632-4380-44fe-921c-d74edc3fd860",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_b149c4da-3ecb-4e95-b20d-7e8bbe9f6813.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1e637a2c-ffa3-4709-bd8e-f1d4cc898af3",
+            "Value": {
+                "id": "4635bb58-8168-40c0-9698-72db7777632f",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1edfdd45-30e6-47af-a541-0ed847cd671a",
+            "Value": {
+                "id": "4aeeb503-d97a-458e-820c-3e3298b52294",
+                "resourcePath": "views\\1edfdd45-30e6-47af-a541-0ed847cd671a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1fdf26b5-f511-414c-958f-797ada6337c1",
+            "Value": {
+                "id": "2c210a6b-65ca-465c-8e75-174e8a5717cd",
+                "resourcePath": "datafiles_yy\\Space War\\views\\72324d15-f354-41f3-8b26-400e745bf1fd.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "21d6897a-630d-4600-8601-aa2caa358d9a",
+            "Value": {
+                "id": "9644cce8-c436-4ab2-91a5-ef6aac33c29f",
+                "resourcePath": "views\\21d6897a-630d-4600-8601-aa2caa358d9a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "21f25a27-5dcd-4e8b-a817-3d065c493cfc",
+            "Value": {
+                "id": "141dbf29-66df-4185-a6a1-cf28303f0c40",
+                "resourcePath": "datafiles_yy\\Space War\\views\\a86334c1-fd69-43f9-81ef-568ab490e9e3.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "24bb912c-9157-4415-8fd9-551ae6507fa7",
+            "Value": {
+                "id": "11a4cb55-bc33-446f-8f72-8f663df18c0c",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\d8390e9c-bf28-4c5e-bac3-4f52fc3154c1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2741b755-e9bd-44aa-a40f-c2b696471aaf",
+            "Value": {
+                "id": "186f1833-7520-43d9-9534-2cd4d02db67f",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\aeeb98c1-ba49-481b-9a42-d46d5e3fdb36.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "27c4ed55-d445-483c-a533-0bf7d45f6cff",
+            "Value": {
+                "id": "fe359062-a4db-46c2-8770-bc1f743c9994",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\spr_missile.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "29a3e566-0c3c-41b6-8f4b-612ad759c307",
+            "Value": {
+                "id": "1d654bed-8404-4acf-a9ca-ec2bcbf77b97",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\3fcd20c9-bdbd-4694-aff6-5ab037c27097.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2b50b897-da4c-40db-8e22-a505763537a7",
+            "Value": {
+                "id": "fc5f0fc6-b31a-45c2-b09c-b31007795e7a",
+                "resourcePath": "views\\2b50b897-da4c-40db-8e22-a505763537a7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2c3afebf-0169-45ea-948a-473a5e029868",
+            "Value": {
+                "id": "fdd779f5-ae6c-4bb6-ab5f-e62058d9cb05",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2d0eb5c4-34c6-4135-8076-70970268c091",
+            "Value": {
+                "id": "341f87e0-607a-4770-af8d-ef328974cebf",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\b5731f6c-bdd9-4849-ab22-7adfcbf8dfd0.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "31259cec-2527-4efc-93c0-27a8485ed8b1",
+            "Value": {
+                "id": "d5ab6334-fa74-405e-9beb-4f714a6c1f9b",
+                "resourcePath": "views\\31259cec-2527-4efc-93c0-27a8485ed8b1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "31edf7af-73e0-45d3-ac32-4c3517d39d64",
+            "Value": {
+                "id": "51df2375-46e2-4f0d-bff6-368748a99eaa",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\c29212f5-09fb-42d0-adf8-dc3866b56c97.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "330f60c2-b48b-4468-92ff-b51ddf726881",
+            "Value": {
+                "id": "128c477a-6037-43ed-b56b-e7eabe592223",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_6fa9e7f1-d793-42d0-8fe2-04bb714ca072.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "34811b81-3659-49de-bd6c-4c8c7539eeb8",
+            "Value": {
+                "id": "18d6013f-b6b8-4d1d-9cca-972715f9428e",
+                "resourcePath": "views\\34811b81-3659-49de-bd6c-4c8c7539eeb8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "34e619d2-ff61-4637-8ba1-7d8122971701",
+            "Value": {
+                "id": "098957a4-01a5-4785-973b-0ddba9b64c52",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\e6372b22-b471-43eb-af87-0c0a3d441eb9\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "355325e1-4e6b-47c5-9d59-d50340737b6b",
+            "Value": {
+                "id": "0803af0f-19ef-4494-9e47-01d524c94753",
+                "resourcePath": "views\\355325e1-4e6b-47c5-9d59-d50340737b6b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37cbdb32-316c-4ada-b25c-7d2062d83059",
+            "Value": {
+                "id": "c3ca1ab1-124d-48cd-8701-f3b791f85c6a",
+                "resourcePath": "views\\37cbdb32-316c-4ada-b25c-7d2062d83059.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "38b8d85b-5479-4eb2-821e-8c0bfbbf136b",
+            "Value": {
+                "id": "c79af1fe-c30f-4bf5-ac8e-d2da3753408b",
+                "resourcePath": "views\\38b8d85b-5479-4eb2-821e-8c0bfbbf136b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "399df351-405a-46c0-9d8c-72a6c08ca5a0",
+            "Value": {
+                "id": "871f4dcd-d61a-4f6e-9289-779b4e0ab470",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Collision_32da1aa3-68f4-4e35-a6f5-f87ce78e65f2.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3a0e0955-ad1b-45f8-af26-be2b82bb8feb",
+            "Value": {
+                "id": "47ecf61a-545c-4c37-81e4-a0c73a3e447a",
+                "resourcePath": "views\\3a0e0955-ad1b-45f8-af26-be2b82bb8feb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f502ec3-bb70-4dcd-9ade-bc14762b92e2",
+            "Value": {
+                "id": "fc8b795b-10ad-41de-aaac-221af49435d4",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\3fcd20c9-bdbd-4694-aff6-5ab037c27097\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3faefd0c-df5b-444e-bd15-e7b47cfd3090",
+            "Value": {
+                "id": "dd6f1a14-b2e6-45ea-897a-153f7417af62",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "41c654da-de93-433d-bb1c-eaedb1770bb1",
+            "Value": {
+                "id": "96b43714-5391-4e55-930a-c8213565002e",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Collision_a1db1464-324c-48a3-948a-868a3f27b740.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "436b11cf-a994-4f5b-a954-cd83f47eb45b",
+            "Value": {
+                "id": "bcab0d9e-ee8d-4810-a515-b4e7df6ba26d",
+                "resourcePath": "views\\436b11cf-a994-4f5b-a954-cd83f47eb45b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "448846b0-9a81-4dd9-a9df-88298919c334",
+            "Value": {
+                "id": "af01c268-7261-4f38-85fe-76f99432ef31",
+                "resourcePath": "datafiles_yy\\Space War\\views\\fa3fe394-b4aa-41dd-9e92-a0c587b346a5.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "463c8dd2-f253-4e6f-9591-22af3ec4114c",
+            "Value": {
+                "id": "e33f8021-4a8e-40a6-a8f9-0c390a12377c",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\691c3712-0ff3-4806-a4f6-c74eb67dfc24\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "48748d8d-2db8-48f8-a10d-4ba5f644c8b5",
+            "Value": {
+                "id": "d7ab8352-cf02-450e-9bf2-7a4904f864fc",
+                "resourcePath": "datafiles_yy\\Space War\\views\\c92db401-c663-4b49-9f4c-688287584ef6.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "49973c08-3187-46d8-8508-c21b699f8f00",
+            "Value": {
+                "id": "93208fa7-b556-4fec-89d5-2ddccb552541",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Alarm_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "49c42b73-8283-41e4-8d51-3604a13cb16f",
+            "Value": {
+                "id": "25dde553-e148-4175-8dc6-9a0eacee6cef",
+                "resourcePath": "datafiles_yy\\Space War\\options\\main\\inherited\\options_main.inherited.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4bca1a63-a09a-4869-8a9b-c6e71db26dd8",
+            "Value": {
+                "id": "b5d21929-4ad4-47c1-93b5-98f93cba5073",
+                "resourcePath": "datafiles_yy\\Space War\\views\\c7d45e8a-0d91-41bf-be17-6a74bbab8ffb.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4ce8921c-0a30-4cef-9242-26ece6283c32",
+            "Value": {
+                "id": "b3547376-e2d5-41dd-b04e-bb65dd88abc8",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\layers\\b5731f6c-bdd9-4849-ab22-7adfcbf8dfd0\\882a9d78-651d-4e6e-a94c-c21bb689e014.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4fba69b7-2caa-4e72-bac9-97ef100ed6e7",
+            "Value": {
+                "id": "87f682c1-1e12-45ca-96b1-8a353781c715",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "52895276-f80b-4904-a33e-9f23c95b054e",
+            "Value": {
+                "id": "8f2fc02c-a82d-43df-8fd5-1ccd41de32f8",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\56d364b0-39a9-425e-804c-26762787e0d8.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "54a7d872-bf04-4144-a34c-754a7497b939",
+            "Value": {
+                "id": "1c0a4f9d-1987-47cc-bb36-6f6920ffdd79",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\7ff18608-4d5b-41ca-92e5-bfe012add3bd.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "55a6ffec-4cdf-4554-aa66-cfe9f64aa39d",
+            "Value": {
+                "id": "2e01ed6a-743d-4c06-a85c-5f2d0199ac33",
+                "resourcePath": "views\\55a6ffec-4cdf-4554-aa66-cfe9f64aa39d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "57f58f61-8798-41b8-af0c-e74b8149eea3",
+            "Value": {
+                "id": "c6fca5a5-21b3-4847-9ba8-70d2a8cc8fa7",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Collision_32da1aa3-68f4-4e35-a6f5-f87ce78e65f2.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5886d092-7d82-4b6e-b9b2-31c414b500d0",
+            "Value": {
+                "id": "a24e979f-fd5c-40f2-9be3-28187c11be37",
+                "resourcePath": "datafiles_yy\\Space War\\views\\59ace988-2dd4-4695-9a90-e8678365779d.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "59be515b-ac69-4998-87aa-1364a03c9e3a",
+            "Value": {
+                "id": "038acb57-bdca-4176-a5ff-d0851db7f659",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_space\\3d09dc66-ae60-4ec0-8fef-6816a48798d0.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5a03e4d1-d306-4d7b-bbbf-2e4b01898f2c",
+            "Value": {
+                "id": "6c695ac4-dbec-4dcf-89ec-74b2fd4b565c",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\3c394c88-db62-4424-b233-c98de1e5ba65.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5a4577e2-3edb-442e-a552-16d8b39420ad",
+            "Value": {
+                "id": "6de37cef-f5de-4870-af5d-c9de2fc4559c",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5a64b06a-1a7b-4f6c-bbc0-563b2493153d",
+            "Value": {
+                "id": "ad39e730-094e-4a7d-a4a3-3336b59d57d6",
+                "resourcePath": "views\\5a64b06a-1a7b-4f6c-bbc0-563b2493153d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a997d38-1217-4a74-8525-0032ab872769",
+            "Value": {
+                "id": "9ac73333-11f9-4a7e-a102-4228bebf8a97",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5bd8ea8f-68da-4bd3-879d-891670cc6e2d",
+            "Value": {
+                "id": "843bd8b1-c70f-4138-ae45-d63bc984f4d9",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c961338-c202-4a9b-be76-2fd30890493e",
+            "Value": {
+                "id": "52ae0fd9-697f-488e-a0a4-b5d5187ccbc8",
+                "resourcePath": "views\\5c961338-c202-4a9b-be76-2fd30890493e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d3f4f41-ca53-4146-8140-942f26077f7e",
+            "Value": {
+                "id": "bb49503e-4a4c-4801-ab9f-239925c4df98",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\e6372b22-b471-43eb-af87-0c0a3d441eb9.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5e1a2812-0322-44f8-93fb-2a4000dc8c42",
+            "Value": {
+                "id": "9aa99bef-eccd-480f-a852-abcd78633417",
+                "resourcePath": "views\\5e1a2812-0322-44f8-93fb-2a4000dc8c42.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "639c8af7-9e22-4fd9-bcee-5f32ab1e3535",
+            "Value": {
+                "id": "8106a5b0-2bf0-4d97-bfdd-7aa30b9eba2e",
+                "resourcePath": "views\\639c8af7-9e22-4fd9-bcee-5f32ab1e3535.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "646f5403-d5c4-4552-ae9c-87f6c57f0c73",
+            "Value": {
+                "id": "edafbb87-1d55-422c-86f8-2289ff818996",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\layers\\7a45de2c-4495-4894-a7a6-eba57c7625c4\\04caa3cb-66c9-4da6-8685-025846846d2b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6623a479-982c-4c2a-a881-c75ec3d521f2",
+            "Value": {
+                "id": "895b4c76-5767-41f4-b783-b683eac7bf61",
+                "resourcePath": "views\\6623a479-982c-4c2a-a881-c75ec3d521f2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "663dc203-25ff-4ffc-bcfc-f054f2e2c3d3",
+            "Value": {
+                "id": "e609a0ed-df68-415b-a1b0-ab26acda6c7a",
+                "resourcePath": "views\\663dc203-25ff-4ffc-bcfc-f054f2e2c3d3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "67fd178f-a3a4-4e0f-af5f-833b1356e905",
+            "Value": {
+                "id": "4f0a9944-6094-44de-a4a0-f3ffa73db5f5",
+                "resourcePath": "views\\67fd178f-a3a4-4e0f-af5f-833b1356e905.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69de1e2b-8765-42cf-84f6-a12ef009933a",
+            "Value": {
+                "id": "1ff8406b-fc9b-4598-8f0b-0a0495488f55",
+                "resourcePath": "views\\69de1e2b-8765-42cf-84f6-a12ef009933a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6c72a87c-38be-4c3f-aaf5-a1dab965a578",
+            "Value": {
+                "id": "cd5ca91d-880e-4cee-a063-3d205bbc064c",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\layers\\f3b5c610-0996-407c-b4d7-e063e435ec53\\882a9d78-651d-4e6e-a94c-c21bb689e014.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6d92260b-a8c1-458e-84ab-83a2cbd98c3c",
+            "Value": {
+                "id": "327ff714-de86-4721-a23b-3e7fbb5b23b8",
+                "resourcePath": "views\\6d92260b-a8c1-458e-84ab-83a2cbd98c3c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e6aef8b-926d-46ab-aceb-c111acc11b48",
+            "Value": {
+                "id": "970cd951-6e4f-43f5-8918-42f31688a2a6",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\layers\\43093fdf-07c9-444f-8bd2-d01754cb1e8d\\882a9d78-651d-4e6e-a94c-c21bb689e014.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6eb47d29-d198-4e40-8ab2-bfb85e024ec7",
+            "Value": {
+                "id": "57225bf8-76d2-4835-ba6c-5d979b69e4b2",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6f5ddcd7-cdc5-4d45-9272-ba20c160d06e",
+            "Value": {
+                "id": "bb63501f-c24d-4823-bcad-f07b0729595c",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
             }
         },
         {
-            "Key": "520bedda-9f62-4104-8a70-e7685809544f",
+            "Key": "6f9dcb92-d974-4074-ab57-e2799c4fdea7",
             "Value": {
-                "id": "eb91cb14-071d-4a25-bcfd-17ff715a0917",
-                "resourcePath": "views\\520bedda-9f62-4104-8a70-e7685809544f.yy",
+                "id": "4ddec67b-7d52-4ac2-a086-dae5b9e00862",
+                "resourcePath": "views\\6f9dcb92-d974-4074-ab57-e2799c4fdea7.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "552b4705-a4f6-453e-9932-782a90e19b0b",
+            "Key": "70b2c057-dffc-45b4-8d2f-a81e0e52300f",
             "Value": {
-                "id": "6c943a41-b772-4287-bd0f-ba669692808b",
-                "resourcePath": "views\\552b4705-a4f6-453e-9932-782a90e19b0b.yy",
+                "id": "0815426b-cbb5-48fc-8a0e-44b86df7bf7b",
+                "resourcePath": "datafiles_yy\\Space War\\views\\e6d0d6b4-08d7-4fe8-8202-2837854e7f7a.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "74d40398-920a-4321-855a-b5a01c4cc941",
+            "Value": {
+                "id": "0cd61855-0f72-447c-ba09-38095cc97f44",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\ef9cfbd0-5f84-4ad3-a353-2b4143242cca.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "74e02880-be24-4792-b7d1-551cc42a04f6",
+            "Value": {
+                "id": "388e43db-0838-4f69-a8dc-486e6b542098",
+                "resourcePath": "views\\74e02880-be24-4792-b7d1-551cc42a04f6.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "8fbccb30-b127-40a3-9950-301d3e18c200",
+            "Key": "7699c415-b579-46c6-972b-4ea8e9c17df8",
             "Value": {
-                "id": "3f904392-360a-45c4-aff5-4610d331d6f2",
-                "resourcePath": "views\\8fbccb30-b127-40a3-9950-301d3e18c200.yy",
+                "id": "f5a0376f-2543-4aba-87f6-8b6b438a45ee",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_7aab0ebd-c8a8-4400-81b7-660b24f37a57.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "773889dc-9c37-43ee-ba32-feb28afa368a",
+            "Value": {
+                "id": "cc1ee0c0-85f4-4dba-b860-6b2ef60ae28d",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_2.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7a5c25bc-eaff-4174-9a64-e89b980f018d",
+            "Value": {
+                "id": "84c5fca5-31f8-43b0-a781-36c4b5403bda",
+                "resourcePath": "views\\7a5c25bc-eaff-4174-9a64-e89b980f018d.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "9e2a2086-fc76-4208-8dbb-6c7e510c6611",
+            "Key": "7aa5f523-af7f-471f-ae31-c64f941c601f",
             "Value": {
-                "id": "82538f83-89ec-4fd2-b157-e455e9ba8f68",
-                "resourcePath": "views\\9e2a2086-fc76-4208-8dbb-6c7e510c6611.yy",
+                "id": "2000d64c-43db-41d4-840d-7af3d64a2c4c",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\obj_ship2.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7af2d135-d621-4207-a0e4-e04a17695596",
+            "Value": {
+                "id": "82789e02-c16b-43a7-acb2-aacb2f162dac",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\layers\\7ff18608-4d5b-41ca-92e5-bfe012add3bd\\04caa3cb-66c9-4da6-8685-025846846d2b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7b9881d2-d95c-4e5a-8e90-cd7bf587b656",
+            "Value": {
+                "id": "86ec1842-c59f-45b1-bd4d-b94ace0e2bd7",
+                "resourcePath": "views\\7b9881d2-d95c-4e5a-8e90-cd7bf587b656.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7bdea253-4d32-488c-8ed6-096396227a94",
+            "Value": {
+                "id": "74a7c4b9-2d44-4002-ac18-22a48de03677",
+                "resourcePath": "datafiles_yy\\Space War\\views\\08308664-1fb6-451b-89ae-ddb445ae110b.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7cbb66ec-8dc4-4b49-bad4-d997d5545367",
+            "Value": {
+                "id": "fc7a1e19-4a86-4078-809e-705720c2738a",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7e124445-ccb1-4028-8062-0bf17ef52896",
+            "Value": {
+                "id": "764c5ae2-e83c-4725-8a5f-e318468c8156",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\obj_ship.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7fa361c8-200b-48d6-aaee-39edad3f79ea",
+            "Value": {
+                "id": "aa961a60-5217-4fae-85bc-ea03319d1465",
+                "resourcePath": "datafiles_yy\\Space War\\views\\f0f2a0f8-38ae-4d4a-aca2-f01e94e1b7e6.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7fb1dc23-3115-4a23-979a-a2a65fe3ffb2",
+            "Value": {
+                "id": "e852d945-207c-4b06-97a9-6855fbc4f20d",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "823cbd21-3a06-4865-aeb7-78834c03758f",
+            "Value": {
+                "id": "78384f01-036b-4d1e-a341-d68dcd879708",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_2.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "86a64445-68c5-4fa8-b82d-fd4bfe110b66",
+            "Value": {
+                "id": "27498a07-fce6-48c0-a25e-2c09ff2fed63",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "89410c39-be92-412b-a578-6fec8a8b4b0f",
+            "Value": {
+                "id": "88352411-2b81-4572-ae48-91619a24fad0",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_space\\layers\\3d09dc66-ae60-4ec0-8fef-6816a48798d0\\017fcc91-15e3-4842-9970-5d0ed8c5a1d3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8c23b0dc-f961-409d-85bc-de55c7136783",
+            "Value": {
+                "id": "ed4fd06c-1929-4ebf-b0e2-ef88b1fd8f4b",
+                "resourcePath": "datafiles_yy\\Space War\\views\\794be736-98e8-4d73-8ea7-2e5c4ab01b0a.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8e1b7587-67d2-4027-998b-51bb6bdce51d",
+            "Value": {
+                "id": "94e48911-6358-4eb5-84fe-284e6eef4272",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\ad8ea7d4-5bb9-4a07-a4ff-c5cb52f1a9c4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8e64fd7b-e78b-4b93-a868-8ab4187c2ff2",
+            "Value": {
+                "id": "1b8b4340-2bad-45ba-9c8e-c318ae033061",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\3e644e34-42cb-4bb6-86f4-a62ab482a79b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8eb39e74-5b7b-4e95-bdaf-4be5a2fb30ee",
+            "Value": {
+                "id": "16eb1c45-cbb0-4938-856a-9da7eb173011",
+                "resourcePath": "datafiles_yy\\Space War\\views\\1cb4b2d0-8d03-47a9-88f8-a234b59cacf0.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8f45a8f7-b033-4c53-982a-20e612fba989",
+            "Value": {
+                "id": "f318ae49-3ed2-4099-831c-92ffeb54bb79",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\layers\\3e644e34-42cb-4bb6-86f4-a62ab482a79b\\04caa3cb-66c9-4da6-8685-025846846d2b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "91ee9ee4-0699-4d60-ac2f-fafe9af74914",
+            "Value": {
+                "id": "b6e2aa5c-f754-41e3-9fb5-b8295d1f14dc",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_b149c4da-3ecb-4e95-b20d-7e8bbe9f6813.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "924dc502-6f15-42a5-90d3-aec32e7346cc",
+            "Value": {
+                "id": "5339b086-810c-4d5f-a0c5-a58650fbf450",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "94c5df24-a485-4d12-84e1-48891c50f6e4",
+            "Value": {
+                "id": "4e19bc7e-6db4-444b-bc55-172b71744c26",
+                "resourcePath": "views\\94c5df24-a485-4d12-84e1-48891c50f6e4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "95028d7a-75cf-4886-b84a-a89d81570b00",
+            "Value": {
+                "id": "897cd3d2-160e-42e7-8155-274782e2d7ff",
+                "resourcePath": "datafiles_yy\\Space War\\views\\46af68da-10f7-4506-8cdc-61d507af86eb.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "975e8992-8daa-4d21-b87a-4f6f6c79952e",
+            "Value": {
+                "id": "305c221b-bdf5-4603-8114-b888e21ea345",
+                "resourcePath": "views\\975e8992-8daa-4d21-b87a-4f6f6c79952e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "979a783a-3832-4d62-b60a-6032172030e6",
+            "Value": {
+                "id": "9530b6b3-1177-4995-a76a-ef4fdd60ceb3",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "99d4588b-eff1-407d-a4ef-bf0876083602",
+            "Value": {
+                "id": "856c0ed2-626d-49b1-8f21-fb1bb6ab0f51",
+                "resourcePath": "views\\99d4588b-eff1-407d-a4ef-bf0876083602.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c24b754-a71f-4b5b-ad2f-5724f30e582b",
+            "Value": {
+                "id": "ec5261f6-1b9f-4717-9321-ef203b4ae900",
+                "resourcePath": "datafiles_yy\\Space War\\options\\windows\\options_windows.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9dfe9519-76d8-4bee-8e0d-fe925cdaf4ad",
+            "Value": {
+                "id": "dc362d31-ee12-4bc9-aae8-a8b1afb0c3f5",
+                "resourcePath": "views\\9dfe9519-76d8-4bee-8e0d-fe925cdaf4ad.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9feac600-70dd-43b2-bc65-71e52645a508",
+            "Value": {
+                "id": "fc1a6b03-f7f6-4fe0-bceb-55dd600f0f78",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\bb85db9a-83ab-4dae-91ec-b857a616884b\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a016caa7-4074-46c7-afbc-5945004fdd4f",
+            "Value": {
+                "id": "f9f516eb-9d96-4d9e-97af-0115b2a4e70a",
+                "resourcePath": "views\\a016caa7-4074-46c7-afbc-5945004fdd4f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a082a615-ff68-445e-a393-f38e4cbb7dd3",
+            "Value": {
+                "id": "a7a5f4ab-3ea1-4927-91cf-7d8e59f4fbdc",
+                "resourcePath": "views\\a082a615-ff68-445e-a393-f38e4cbb7dd3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a3474106-6b00-4233-b6a5-c40f3e00d009",
+            "Value": {
+                "id": "1116f91f-5ff4-41d5-8b7e-e99a0024bcfb",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\spr_ship2.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a3b3cc86-7d7c-4eac-8a60-c90d71125fc6",
+            "Value": {
+                "id": "a0cfb26f-09b4-4844-9258-f0cbc6467bda",
+                "resourcePath": "sprites\\spr_tower\\spr_tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a40efd96-93ec-4829-a2b7-3928f81dc420",
+            "Value": {
+                "id": "bc3fa428-a1ae-43c7-80fa-60fa99c00f45",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a705520c-5126-4eaf-878b-77facc423649",
+            "Value": {
+                "id": "2f510950-f1c5-476e-a42c-6bef472f09d2",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\spr_ship.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a82f4e85-471f-4d44-8850-fd48bb9f1baa",
+            "Value": {
+                "id": "a9a17187-6169-4df6-a09e-f70343760abd",
+                "resourcePath": "views\\a82f4e85-471f-4d44-8850-fd48bb9f1baa.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
-                "id": "1e88af24-c803-4523-9d40-2328e61954aa",
+                "id": "598eb5be-fdfc-4413-b90a-2c34c0de7a0b",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
             }
         },
         {
-            "Key": "b38e3cbd-257f-4ef0-9ded-225bf2e0ddf2",
+            "Key": "ac973cac-b184-4988-8a16-df6538f68743",
             "Value": {
-                "id": "536f8055-79c5-4bfc-abfc-003d13d74dd4",
-                "resourcePath": "views\\b38e3cbd-257f-4ef0-9ded-225bf2e0ddf2.yy",
+                "id": "b4d69182-56ce-4b9e-b655-7cbe2ff1aad5",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Alarm_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ae766557-a01e-48d2-beea-642d26628237",
+            "Value": {
+                "id": "f3110dc8-f147-4cd5-a57a-f7f08de9610c",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_1.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ae977a96-2c93-4bb6-8139-1a68ac9b1a83",
+            "Value": {
+                "id": "0fc92dfb-3597-4535-b281-98c571ceaa92",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b131ecde-4b1b-4897-b499-273b2c03c17d",
+            "Value": {
+                "id": "75da9308-fe49-4850-a37f-b8304f1e5839",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b40446da-614f-4018-b07c-e9bd2a308bce",
+            "Value": {
+                "id": "67d8598f-7e86-4a85-ba9a-c39662a28a01",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\layers\\ef9cfbd0-5f84-4ad3-a353-2b4143242cca\\04caa3cb-66c9-4da6-8685-025846846d2b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b4990f2b-0412-4a90-86bd-c8b6021e8012",
+            "Value": {
+                "id": "4491bfb0-4465-4665-a151-ea6200a72869",
+                "resourcePath": "views\\b4990f2b-0412-4a90-86bd-c8b6021e8012.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6432d0a-4501-404c-b8cf-ad3ff84db8fd",
+            "Value": {
+                "id": "3c9dfe0b-aa2d-4896-a55e-ffc77611209c",
+                "resourcePath": "views\\b6432d0a-4501-404c-b8cf-ad3ff84db8fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b72cac60-bc7c-4c90-a5e8-5469e210c12a",
+            "Value": {
+                "id": "a973dafd-0df8-4f65-9035-4637077f53c6",
+                "resourcePath": "views\\b72cac60-bc7c-4c90-a5e8-5469e210c12a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b986bd85-7096-4110-9171-ab15874c029d",
+            "Value": {
+                "id": "e4e1f2a1-80e7-46c7-b875-c86638658598",
+                "resourcePath": "datafiles_yy\\Space War\\rooms\\room_game\\room_game.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "baa5ca99-2376-4334-b949-72fc1f927f45",
+            "Value": {
+                "id": "ad93084c-55a4-410f-aadc-5cc81ab06b20",
+                "resourcePath": "views\\baa5ca99-2376-4334-b949-72fc1f927f45.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bf8f8ba9-1c65-46ce-a17a-7be9cb80a360",
+            "Value": {
+                "id": "e5018da5-509b-4fe0-a642-fda22ca5994a",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\layers\\d8390e9c-bf28-4c5e-bac3-4f52fc3154c1\\882a9d78-651d-4e6e-a94c-c21bb689e014.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c04b6098-0c2c-44d3-b52b-e24ee2bfc9ae",
+            "Value": {
+                "id": "0f0b665d-8dce-4060-83b9-f7f41b49f502",
+                "resourcePath": "views\\c04b6098-0c2c-44d3-b52b-e24ee2bfc9ae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c203830b-a3bf-4447-ba99-1bfdc2fa0ff0",
+            "Value": {
+                "id": "9e01cb9f-22ef-4645-ba65-6ac283726e24",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c26610b2-89ff-48cb-bec5-3b8c8a61bbb7",
+            "Value": {
+                "id": "ea3515d1-9256-42ce-b131-f3e143195d07",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\38632185-9777-4167-9960-3b5e5573608c.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c59077e9-97cb-4a87-a000-aee8e260a388",
+            "Value": {
+                "id": "22c644ea-fc4c-4656-b8cb-0046edf61bd2",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_7aab0ebd-c8a8-4400-81b7-660b24f37a57.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c5bf08a1-6bcd-4ba4-a314-f4d489a1252c",
+            "Value": {
+                "id": "e91429ee-1fb3-4ec3-bd81-f34cc14ebb2e",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\f3b5c610-0996-407c-b4d7-e063e435ec53.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c7dcfe49-deb7-4268-a5bf-5e90c4f71b0d",
+            "Value": {
+                "id": "95ed2126-fa24-4dda-b419-0d9761980d09",
+                "resourcePath": "views\\c7dcfe49-deb7-4268-a5bf-5e90c4f71b0d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c89467f2-6361-44ff-913a-e214885cb917",
+            "Value": {
+                "id": "953996a8-ce35-4a00-9dd7-a4fbdfe4aa67",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\bb85db9a-83ab-4dae-91ec-b857a616884b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c8b03234-1d17-4051-b746-3e87023c4524",
+            "Value": {
+                "id": "7d997336-2788-4fa8-8a66-11fc2c8c44d7",
+                "resourcePath": "objects\\obj_tower_button\\obj_tower_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c93ec77a-292e-49db-9105-4152147ead6a",
+            "Value": {
+                "id": "2980bfbc-1b25-4682-b585-ebe95bfec45c",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_space\\spr_space.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c94cf454-f3ec-44d4-a159-f761f420bd19",
+            "Value": {
+                "id": "6902d5c4-0090-4f97-b31f-a9baefe58124",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_6fa9e7f1-d793-42d0-8fe2-04bb714ca072.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ca429e4d-f858-40b0-8458-1f156a7edc90",
+            "Value": {
+                "id": "31217218-1964-4a74-8c97-f0d154c94979",
+                "resourcePath": "views\\ca429e4d-f858-40b0-8458-1f156a7edc90.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cae56c05-3e82-425f-9365-be25dd767c2a",
+            "Value": {
+                "id": "4f10ca3d-6155-4b88-ad60-60dbd75a1ac5",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\3c394c88-db62-4424-b233-c98de1e5ba65\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
-                "id": "7d5a7d26-5b2e-4ebf-9f45-75aae6c91a4e",
+                "id": "9545d094-ed2f-4ba0-a224-d5dda8f7b8a8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
         },
         {
-            "Key": "d0ca45bc-dcf5-4e91-9ddb-68a8023a545c",
+            "Key": "cd13feba-f294-4bf9-a74c-fdeb5fe9b3ee",
             "Value": {
-                "id": "34b27ca9-bc6f-48ac-9605-9507e3f26eaf",
-                "resourcePath": "views\\d0ca45bc-dcf5-4e91-9ddb-68a8023a545c.yy",
+                "id": "e2902fbd-72c3-43e6-ad3a-b825919e943a",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cdaeed94-b35d-4961-9ebe-5d29d9b8b586",
+            "Value": {
+                "id": "4896c04e-225d-4974-ad2f-9ea449708463",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\56d364b0-39a9-425e-804c-26762787e0d8\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cee19fef-80f3-40c0-83a7-3517c7dc94fc",
+            "Value": {
+                "id": "577bdc4c-8012-4a9c-8da6-eec5ecdf36d0",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d09dfc37-58fb-4f76-9a67-afd85a2d997c",
+            "Value": {
+                "id": "ec3b5d91-aed3-4461-a327-e9925839b92d",
+                "resourcePath": "views\\d09dfc37-58fb-4f76-9a67-afd85a2d997c.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "ddd435da-696e-4114-bd7c-3911e60103f0",
+            "Key": "d1b4b060-9ede-4cc3-8334-1111498c3e49",
             "Value": {
-                "id": "1ed0220b-87a4-4ac4-89e1-13e63052f732",
-                "resourcePath": "views\\ddd435da-696e-4114-bd7c-3911e60103f0.yy",
+                "id": "ae17bc50-8674-4712-a781-72533cc20327",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\38632185-9777-4167-9960-3b5e5573608c\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d25dee15-29a3-42d4-aa88-7c6372350a08",
+            "Value": {
+                "id": "6ff4a529-0ddf-416d-bb2d-ec7ca0f0d16b",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d2b57a37-235f-4ac3-b8a3-e139f8d0c3c0",
+            "Value": {
+                "id": "2e114321-6e75-49e8-9f6d-adec353cb894",
+                "resourcePath": "views\\d2b57a37-235f-4ac3-b8a3-e139f8d0c3c0.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "e5771aba-1f40-4c60-8572-31460b3ca5c7",
+            "Key": "d4399811-f307-4b84-ae30-5e02ba867de8",
             "Value": {
-                "id": "45f57962-894b-4427-9337-0486d8322752",
-                "resourcePath": "views\\e5771aba-1f40-4c60-8572-31460b3ca5c7.yy",
+                "id": "0cd8171d-0fba-49cc-b944-648564612dbc",
+                "resourcePath": "views\\d4399811-f307-4b84-ae30-5e02ba867de8.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "e9aadbaa-b285-4f03-b24b-c3818e40c08a",
+            "Key": "d60b6ee5-3123-4b03-8ace-876d12d2a8ec",
             "Value": {
-                "id": "fd83009d-9e78-4674-b562-9ef4e761f167",
-                "resourcePath": "views\\e9aadbaa-b285-4f03-b24b-c3818e40c08a.yy",
+                "id": "6c87ba69-e923-415d-8474-3a0043094620",
+                "resourcePath": "datafiles_yy\\Space War\\views\\0587ec2e-f859-4db9-aea3-5288f29ffb38.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d8c16e48-a1ea-4c0e-891c-6ec13b247d37",
+            "Value": {
+                "id": "d1efe4d2-0090-4c50-803a-7338465312d6",
+                "resourcePath": "views\\d8c16e48-a1ea-4c0e-891c-6ec13b247d37.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da22ca27-27b2-45bf-bebb-ac9de87f5d66",
+            "Value": {
+                "id": "5e0e38b2-4cf8-48d8-bd1f-03a956a3c847",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Alarm_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "da65bc62-52f6-4745-877f-8a2db4e3ff26",
+            "Value": {
+                "id": "541cb082-8823-4f7a-887c-8be240c48949",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Alarm_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "db98a11d-81d6-4566-918e-5ebd182d2a15",
+            "Value": {
+                "id": "22bdb288-294e-4e82-9e4e-23c5bd3e7957",
+                "resourcePath": "views\\db98a11d-81d6-4566-918e-5ebd182d2a15.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dbc9c0fc-af4d-451b-b74c-4cf025284314",
+            "Value": {
+                "id": "57a1c94b-5969-4f04-a8ec-fbb6db13fe40",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Collision_0f7b957e-0e2b-4244-8d20-4c1be72a845c.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dc582f67-601c-42a2-896f-050887a153c5",
+            "Value": {
+                "id": "e70d359d-2997-44d9-8bab-adbf431e3057",
+                "resourcePath": "views\\dc582f67-601c-42a2-896f-050887a153c5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df64b4bd-4c60-4e21-907b-9986370cb13e",
+            "Value": {
+                "id": "73191ec4-717e-4d25-b801-a040dd1d2f64",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\43093fdf-07c9-444f-8bd2-d01754cb1e8d.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dfcf0f1b-1394-4eb1-a0e3-b97c5a6314d1",
+            "Value": {
+                "id": "11a60dba-f242-4b66-9fe0-5d1275aed7d9",
+                "resourcePath": "views\\dfcf0f1b-1394-4eb1-a0e3-b97c5a6314d1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dff1a17b-38be-43e5-97d8-8ef422ac311b",
+            "Value": {
+                "id": "0d4983e2-d55b-437e-9a69-fb617c3b35e5",
+                "resourcePath": "views\\dff1a17b-38be-43e5-97d8-8ef422ac311b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e19428aa-dbb2-4248-bfe9-82594b76c167",
+            "Value": {
+                "id": "f5a7d5f8-0261-4f68-a36f-d2d7da3f2846",
+                "resourcePath": "views\\e19428aa-dbb2-4248-bfe9-82594b76c167.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e1d107f3-9304-4161-9de7-3323517438f6",
+            "Value": {
+                "id": "77d9f407-43b8-4581-9959-764b424452af",
+                "resourcePath": "views\\e1d107f3-9304-4161-9de7-3323517438f6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e26cc96c-32da-4d77-80ad-af433e716c4a",
+            "Value": {
+                "id": "faeb0c1d-cccf-4705-97d1-e37dc4532c4b",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\c29212f5-09fb-42d0-adf8-dc3866b56c97\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e2e621c5-17bd-4797-9859-9a4e0d58f2ce",
+            "Value": {
+                "id": "afe7a36d-1e26-40d8-be10-bb21ae05ada2",
+                "resourcePath": "views\\e2e621c5-17bd-4797-9859-9a4e0d58f2ce.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e34cc556-7f4f-4675-b2af-1e248b2ed089",
+            "Value": {
+                "id": "26092b79-21f2-43cd-a38a-0f0a7d6bee53",
+                "resourcePath": "views\\e34cc556-7f4f-4675-b2af-1e248b2ed089.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e46db0c5-d82a-435e-bdaf-b97501ce39e0",
+            "Value": {
+                "id": "5e8bd695-0616-4e21-8934-feea33b72283",
+                "resourcePath": "views\\e46db0c5-d82a-435e-bdaf-b97501ce39e0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e7e0e726-9def-4008-8a81-1d05809e93b5",
+            "Value": {
+                "id": "c6455e2b-4466-4d5a-8a47-c0cc26867860",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\843a61cf-d436-4f95-898a-22cb50531175.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e8302644-1d01-4918-af04-fe1b7048e067",
+            "Value": {
+                "id": "c3c320a7-6d32-4d68-b274-70c958775878",
+                "resourcePath": "views\\e8302644-1d01-4918-af04-fe1b7048e067.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e9356f05-a9a1-4cf9-8294-f79e27e66946",
+            "Value": {
+                "id": "f3946432-d424-4394-a658-8993aba4d558",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\layers\\cace4740-6375-4a2c-9c93-c44c504ed9bc\\882a9d78-651d-4e6e-a94c-c21bb689e014.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eae6913c-0a80-481e-aada-fbc4a6995edb",
+            "Value": {
+                "id": "21384657-d834-409a-804e-aeda135bde24",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship2\\Collision_0f7b957e-0e2b-4244-8d20-4c1be72a845c.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eb02d369-dbb5-406b-8dbd-2d32cc60b212",
+            "Value": {
+                "id": "86e25707-dfd6-4e81-91dd-03faa2e5dfff",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Collision_a1db1464-324c-48a3-948a-868a3f27b740.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eb03dd3c-3188-40b8-956b-8dd66fd419eb",
+            "Value": {
+                "id": "e9f7d139-a4da-41be-8691-2641393bb008",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\cace4740-6375-4a2c-9c93-c44c504ed9bc.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ebb994a9-a002-492b-8852-6d61439bb9b2",
+            "Value": {
+                "id": "56c80fb0-9944-47ca-bc8b-203c829aa5fb",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ec30c8de-4afe-42f6-a711-2c14861b7320",
+            "Value": {
+                "id": "d5c51a1c-0485-4764-bddb-384d56944706",
+                "resourcePath": "views\\ec30c8de-4afe-42f6-a711-2c14861b7320.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee903c8b-d2b3-4483-9935-889e00a4bc37",
+            "Value": {
+                "id": "e5f97b1f-62cf-4154-b05c-215b532e2046",
+                "resourcePath": "datafiles_yy\\Space War\\options\\mac\\options_mac.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eef5ead0-1b04-4cc8-9377-6b8f3c9b3360",
+            "Value": {
+                "id": "218ac172-077e-46d1-91f1-10e8eea7acb4",
+                "resourcePath": "objects\\obj_tower\\obj_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f05e57bd-3fb7-43f9-82c5-89aaeb48ca95",
+            "Value": {
+                "id": "870f2243-7e79-4d3d-91c5-f9964dd1b6ac",
+                "resourcePath": "views\\f05e57bd-3fb7-43f9-82c5-89aaeb48ca95.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0cb6462-b0f5-45ee-89d6-794c3a0d8daa",
+            "Value": {
+                "id": "e98e0aa6-14fa-46c5-82f8-15e083392ea8",
+                "resourcePath": "datafiles_yy\\Space War\\options\\linux\\options_linux.yy.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
-                "id": "5fa6c7de-75dc-4fe8-b445-2d2b26d18210",
+                "id": "65814253-5fcc-47b7-98e9-ea98d1feffa3",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f666dfbb-a00e-4d11-acfc-79ee4e233668",
+            "Value": {
+                "id": "05a24c8a-2b6a-4967-9ab7-d3c1c4e9b5d3",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\aeeb98c1-ba49-481b-9a42-d46d5e3fdb36\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f944d7d0-0ebd-42cf-88b0-b1ed49bcf719",
+            "Value": {
+                "id": "6e925b96-d5a2-416b-b971-b66897d4d629",
+                "resourcePath": "sprites\\spr_tower_button\\spr_tower_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9eb27ef-ed7b-4659-afb2-99e00d3f0d52",
+            "Value": {
+                "id": "fca767ba-d53b-4486-8202-9f7b56b9381b",
+                "resourcePath": "datafiles_yy\\Space War\\views\\500a4bfc-0353-4328-b1f9-d5c04ceb374a.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fa48f766-57d7-4523-af24-a32c90ef2613",
+            "Value": {
+                "id": "c67741ec-a640-4ccb-b196-708764cc8963",
+                "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\obj_missile.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fbb307e6-1c44-431a-9e2a-ed34c055ecb2",
+            "Value": {
+                "id": "83a898eb-2d2f-46a0-b242-701bc4161490",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\ad8ea7d4-5bb9-4a07-a4ff-c5cb52f1a9c4\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fc372abe-f3d1-49c7-ba07-a1ad2894da42",
+            "Value": {
+                "id": "8eef6ab2-add8-406e-be06-6e5e5c948c50",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\layers\\69f6730b-1eb3-41b4-947b-83eb53679b9e\\04caa3cb-66c9-4da6-8685-025846846d2b.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fda2d473-3f30-4cb9-bbb5-ba954e61abe6",
+            "Value": {
+                "id": "80f83227-2859-48a8-8eff-b09fd44d8f90",
+                "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship\\7a45de2c-4495-4894-a7a6-eba57c7625c4.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         }
     ],

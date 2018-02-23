@@ -1087,6 +1087,14 @@
             }
         },
         {
+            "Key": "b8586290-9825-4c17-bfa3-bfb7a01f39e3",
+            "Value": {
+                "id": "952d16e9-28ba-4153-b6be-b9acc5ac7ba6",
+                "resourcePath": "tilesets\\bg_Tileset\\bg_Tileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "b93625db-73c9-470b-b49e-325628b09d82",
             "Value": {
                 "id": "1cad7da5-fa33-4459-93fd-1340283cc1a0",
@@ -1532,6 +1540,14 @@
                 "id": "05a24c8a-2b6a-4967-9ab7-d3c1c4e9b5d3",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\aeeb98c1-ba49-481b-9a42-d46d5e3fdb36\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f78750b4-9c92-4d40-a988-203f49e35f9e",
+            "Value": {
+                "id": "94267dfa-b608-4d80-87bc-4b63689c4ca9",
+                "resourcePath": "sprites\\tileSetSpr\\tileSetSpr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

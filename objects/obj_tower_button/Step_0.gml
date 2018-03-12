@@ -1,3 +1,4 @@
-if mouse_check_button_pressed(mb_left) {
-	
-}
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 47E709C0
+/// @DnDArgument : "code" ""

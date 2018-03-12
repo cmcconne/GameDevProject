@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "5403c8bf-20e7-4dd3-8778-ce394e37bd9a",
+            "Value": {
+                "id": "047cebee-dc71-41ef-86a8-64d6b0bc3f43",
+                "resourcePath": "objects\\obj_invalid_build_zone\\obj_invalid_build_zone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54a7d872-bf04-4144-a34c-754a7497b939",
             "Value": {
                 "id": "1c0a4f9d-1987-47cc-bb36-6f6920ffdd79",
@@ -815,6 +823,14 @@
             }
         },
         {
+            "Key": "7fb7c61c-aaba-4bd4-a111-5337cc9e4317",
+            "Value": {
+                "id": "80f42e15-9db3-4305-8ecb-859057f568c3",
+                "resourcePath": "objects\\obj_display\\obj_display.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "823cbd21-3a06-4865-aeb7-78834c03758f",
             "Value": {
                 "id": "78384f01-036b-4d1e-a341-d68dcd879708",
@@ -1087,14 +1103,6 @@
             }
         },
         {
-            "Key": "b8586290-9825-4c17-bfa3-bfb7a01f39e3",
-            "Value": {
-                "id": "952d16e9-28ba-4153-b6be-b9acc5ac7ba6",
-                "resourcePath": "tilesets\\bg_Tileset\\bg_Tileset.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "b93625db-73c9-470b-b49e-325628b09d82",
             "Value": {
                 "id": "1cad7da5-fa33-4459-93fd-1340283cc1a0",
@@ -1156,6 +1164,14 @@
                 "id": "22c644ea-fc4c-4656-b8cb-0046edf61bd2",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Collision_7aab0ebd-c8a8-4400-81b7-660b24f37a57.gml.dnd.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c5a6aaf3-d567-418e-9429-cd58a93a04be",
+            "Value": {
+                "id": "707f045c-47e4-4654-9e84-1467f77b3fd2",
+                "resourcePath": "objects\\obj_leaderboard_manager\\obj_leaderboard_manager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1252,6 +1268,14 @@
                 "id": "4896c04e-225d-4974-ad2f-9ea449708463",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_sun\\layers\\56d364b0-39a9-425e-804c-26762787e0d8\\4cae33e7-4fda-4699-b897-a6f54c48200f.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ce5d8c1e-004e-445c-8c2e-d1ffb4e6c63f",
+            "Value": {
+                "id": "5bf1ff5a-1368-4662-9134-a2ad2cd7737b",
+                "resourcePath": "sprites\\spr_invalid_zone\\spr_invalid_zone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1455,6 +1479,14 @@
             }
         },
         {
+            "Key": "e98bbd96-7f6e-4e6a-a9b4-6b89eecd19fd",
+            "Value": {
+                "id": "7d09a5ef-eff7-48dc-b46e-7fe2793411d7",
+                "resourcePath": "objects\\obj_construct_tower\\obj_construct_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eae6913c-0a80-481e-aada-fbc4a6995edb",
             "Value": {
                 "id": "21384657-d834-409a-804e-aeda135bde24",
@@ -1540,14 +1572,6 @@
                 "id": "05a24c8a-2b6a-4967-9ab7-d3c1c4e9b5d3",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\aeeb98c1-ba49-481b-9a42-d46d5e3fdb36\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f78750b4-9c92-4d40-a988-203f49e35f9e",
-            "Value": {
-                "id": "94267dfa-b608-4d80-87bc-4b63689c4ca9",
-                "resourcePath": "sprites\\tileSetSpr\\tileSetSpr.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

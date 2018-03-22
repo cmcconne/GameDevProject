@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "05f910d9-331e-4dac-827b-6097a9c0aae5",
+            "Value": {
+                "id": "71caf2d1-0cb5-4367-9422-09e344e6e2be",
+                "resourcePath": "sprites\\spr_start_button\\spr_start_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "063a568d-0103-43bb-b686-3d7084f1e78b",
             "Value": {
                 "id": "570ca11d-4958-432c-8a73-c9f3a44e34b4",
@@ -212,6 +220,14 @@
                 "id": "2bf74ea2-d492-4859-99fc-76560cf6b20e",
                 "resourcePath": "datafiles_yy\\Space War\\Space War.yyp.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1c400e23-6dc3-44e2-8b98-61f6d540f99d",
+            "Value": {
+                "id": "d6de9e44-d9c6-4691-baef-9fef49ffeee1",
+                "resourcePath": "objects\\obj_button_continue\\obj_button_continue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -487,11 +503,27 @@
             }
         },
         {
+            "Key": "4dce335f-6104-43e3-b953-55ca7a1d9c54",
+            "Value": {
+                "id": "352d8b43-7338-415a-9780-2540e7c3c2f7",
+                "resourcePath": "fonts\\font_leaderboard\\font_leaderboard.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4fba69b7-2caa-4e72-bac9-97ef100ed6e7",
             "Value": {
                 "id": "87f682c1-1e12-45ca-96b1-8a353781c715",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Step_0.gml.dnd.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "526375c1-8d85-4619-8cbd-680056a59a4d",
+            "Value": {
+                "id": "d5350f51-2dc8-4b80-b7c1-72655a43aed3",
+                "resourcePath": "rooms\\room_game_over\\room_game_over.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -532,6 +564,14 @@
                 "id": "c6fca5a5-21b3-4847-9ba8-70d2a8cc8fa7",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Collision_32da1aa3-68f4-4e35-a6f5-f87ce78e65f2.gml.dnd.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5818f32b-bc2e-431a-aa57-3652009278bc",
+            "Value": {
+                "id": "11cba37b-2f18-41d3-8918-9d8f002a2e38",
+                "resourcePath": "sprites\\spr_next_button\\spr_next_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -580,6 +620,14 @@
                 "id": "9ac73333-11f9-4a7e-a102-4228bebf8a97",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\Step_0.gml.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5b43ed8a-06c9-46d3-b384-70ee93f5922f",
+            "Value": {
+                "id": "c84f0140-3a22-43a7-b66b-034e7dd6da39",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -698,7 +746,7 @@
             "Key": "6f5ddcd7-cdc5-4d45-9272-ba20c160d06e",
             "Value": {
                 "id": "bb63501f-c24d-4823-bcad-f07b0729595c",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Map_One\\Map_One.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -719,6 +767,14 @@
             }
         },
         {
+            "Key": "72c23cb7-2b5a-4120-978b-4b6e834fe758",
+            "Value": {
+                "id": "f76c746d-6b14-4d81-9c48-dbed12603cbe",
+                "resourcePath": "fonts\\font_game\\font_game.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "74d40398-920a-4321-855a-b5a01c4cc941",
             "Value": {
                 "id": "0cd61855-0f72-447c-ba09-38095cc97f44",
@@ -735,6 +791,14 @@
             }
         },
         {
+            "Key": "75e0bd47-9c1e-4f90-8a76-66e5288b9257",
+            "Value": {
+                "id": "7c70dfe3-456c-4cc3-8de1-3e21099c4f53",
+                "resourcePath": "sprites\\spr_options_button\\spr_options_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7699c415-b579-46c6-972b-4ea8e9c17df8",
             "Value": {
                 "id": "f5a0376f-2543-4aba-87f6-8b6b438a45ee",
@@ -748,6 +812,14 @@
                 "id": "cc1ee0c0-85f4-4dba-b860-6b2ef60ae28d",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_2.gml.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "789382d2-6909-403d-bee2-c0818b71d8ac",
+            "Value": {
+                "id": "3b6ea0dc-0317-4b69-ace5-d6087142c089",
+                "resourcePath": "objects\\obj_button_start\\obj_button_start.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -847,11 +919,27 @@
             }
         },
         {
+            "Key": "871c365c-0121-4bae-bc05-784b650dae2d",
+            "Value": {
+                "id": "fe2fbe5e-f1a5-4377-a153-56ce8d742e9b",
+                "resourcePath": "sprites\\spr_leaderboard_button\\spr_leaderboard_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89410c39-be92-412b-a578-6fec8a8b4b0f",
             "Value": {
                 "id": "88352411-2b81-4572-ae48-91619a24fad0",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_space\\layers\\3d09dc66-ae60-4ec0-8fef-6816a48798d0\\017fcc91-15e3-4842-9970-5d0ed8c5a1d3.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8b5c4ca8-2352-4765-b16e-549c62b7bee1",
+            "Value": {
+                "id": "ad02515d-c68a-4faa-a341-236178a913f8",
+                "resourcePath": "objects\\obj_display_leaderboard\\obj_display_leaderboard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -940,6 +1028,14 @@
                 "id": "9530b6b3-1177-4995-a76a-ef4fdd60ceb3",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Step_0.gml.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9956425d-0391-4a70-938e-0a79efd4b095",
+            "Value": {
+                "id": "b80c4b9f-97b1-4f1d-94a6-dce8199a5aba",
+                "resourcePath": "objects\\obj_button_leaderboard\\obj_button_leaderboard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1047,6 +1143,14 @@
             }
         },
         {
+            "Key": "ad5bb652-98a5-439e-a7dd-6c996b0d1672",
+            "Value": {
+                "id": "726de336-8007-4f9f-ac6f-5de1816d63a4",
+                "resourcePath": "rooms\\room_title\\room_title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ae766557-a01e-48d2-beea-642d26628237",
             "Value": {
                 "id": "f3110dc8-f147-4cd5-a57a-f7f08de9610c",
@@ -1063,11 +1167,35 @@
             }
         },
         {
+            "Key": "b0f34e88-5ea3-4183-8e67-123abc0e9909",
+            "Value": {
+                "id": "5a1c5560-e2b6-443a-bc99-9ac1563cf4ce",
+                "resourcePath": "rooms\\room_leaderboard\\room_leaderboard.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b128c763-dd4b-49cf-921c-bc61fc338608",
+            "Value": {
+                "id": "eea6d7cf-3390-4f45-afd2-e3551c26584f",
+                "resourcePath": "objects\\obj_quit\\obj_quit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b131ecde-4b1b-4897-b499-273b2c03c17d",
             "Value": {
                 "id": "75da9308-fe49-4850-a37f-b8304f1e5839",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_0.gml.dnd.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b2b96693-fdde-4815-a81c-78b206f7ae83",
+            "Value": {
+                "id": "d16ec6b7-88e9-44ee-a39d-8fec61517708",
+                "resourcePath": "rooms\\room_menu\\room_menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1116,6 +1244,14 @@
                 "id": "e4e1f2a1-80e7-46c7-b875-c86638658598",
                 "resourcePath": "datafiles_yy\\Space War\\rooms\\room_game\\room_game.yy.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ba9852c5-518e-4054-9e31-088fc42130d0",
+            "Value": {
+                "id": "c58f21de-33bd-402d-bb39-a182dbfe8586",
+                "resourcePath": "sprites\\spr_continue_button\\spr_continue_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1287,6 +1423,14 @@
             }
         },
         {
+            "Key": "cf81d560-8fef-4604-aceb-9573ad014b01",
+            "Value": {
+                "id": "c6a67926-aefb-4083-a82f-b088ab3777a4",
+                "resourcePath": "sprites\\spr_quit_button\\spr_quit_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d09dfc37-58fb-4f76-9a67-afd85a2d997c",
             "Value": {
                 "id": "ec3b5d91-aed3-4461-a327-e9925839b92d",
@@ -1447,6 +1591,14 @@
             }
         },
         {
+            "Key": "e3ab374b-58f7-426d-b92f-b29b94aafeab",
+            "Value": {
+                "id": "a8cd90f7-b972-4971-8c47-104aba87c49c",
+                "resourcePath": "sprites\\spr_title_button\\spr_title_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e46db0c5-d82a-435e-bdaf-b97501ce39e0",
             "Value": {
                 "id": "5e8bd695-0616-4e21-8934-feea33b72283",
@@ -1603,6 +1755,14 @@
             "Value": {
                 "id": "cc2eb8de-4a16-47a8-9f06-a6c570b16ffd",
                 "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa9142df-5cfc-48cb-acc0-c7992229a41a",
+            "Value": {
+                "id": "4361b1f7-db39-4d3f-87a5-0aa9a7881996",
+                "resourcePath": "objects\\obj_button_title\\obj_button_title.yy",
                 "resourceType": "GMObject"
             }
         },

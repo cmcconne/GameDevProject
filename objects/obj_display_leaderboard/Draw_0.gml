@@ -5,7 +5,7 @@ draw_set_valign(fa_middle);
 
 draw_set_font(font_leaderboard);
 
-draw_text(room_width/2, 0,"Leaderboard")
+draw_text(room_width/2, 25,"Leaderboard")
 
 ini_open("leaderboards.ini");
 for (var i = 1; i < 11; i++) {

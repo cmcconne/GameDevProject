@@ -799,6 +799,14 @@
             }
         },
         {
+            "Key": "753e063d-b519-4ebd-a842-65b99f6362fa",
+            "Value": {
+                "id": "17a04682-fc58-456f-9585-c6f157c6f742",
+                "resourcePath": "objects\\obj_next_wave\\obj_next_wave.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75e0bd47-9c1e-4f90-8a76-66e5288b9257",
             "Value": {
                 "id": "7c70dfe3-456c-4cc3-8de1-3e21099c4f53",
@@ -876,6 +884,14 @@
                 "id": "fc7a1e19-4a86-4078-809e-705720c2738a",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_sun\\Step_0.gml.dnd.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7ddcc39e-563e-44d8-86a5-6a4b5de5eb47",
+            "Value": {
+                "id": "37c128dc-267a-47c4-92f0-b1d5de004249",
+                "resourcePath": "sprites\\spr_boss\\spr_boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1215,6 +1231,14 @@
             }
         },
         {
+            "Key": "b3143c46-3539-49d8-95b3-11ff729d667e",
+            "Value": {
+                "id": "48feb4c5-c68f-492a-abe8-c095e415cb4e",
+                "resourcePath": "sprites\\spr_NextWave\\spr_NextWave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b40446da-614f-4018-b07c-e9bd2a308bce",
             "Value": {
                 "id": "67d8598f-7e86-4a85-ba9a-c39662a28a01",
@@ -1332,6 +1356,14 @@
                 "id": "e91429ee-1fb3-4ec3-bd81-f34cc14ebb2e",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_missile\\f3b5c610-0996-407c-b4d7-e063e435ec53.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c78f3ddd-76a2-4f2f-8847-405ecf359077",
+            "Value": {
+                "id": "cda2eda9-a395-4fb8-a3bd-2d53bfec94d6",
+                "resourcePath": "objects\\obj_boss\\obj_boss.yy",
+                "resourceType": "GMObject"
             }
         },
         {

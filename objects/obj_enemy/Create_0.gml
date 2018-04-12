@@ -1,1 +1,1 @@
-enemy_health = 100;
+enemy_health = global.enemy_Health;

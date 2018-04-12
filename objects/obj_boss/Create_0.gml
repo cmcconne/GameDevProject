@@ -1,0 +1,1 @@
+enemy_health = global.enemy_Health*10;

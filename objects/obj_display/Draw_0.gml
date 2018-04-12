@@ -8,6 +8,15 @@ draw_set_font(font_game);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 26846900
+/// @DnDArgument : "x" "room_width/2"
+/// @DnDArgument : "y" "50"
+/// @DnDArgument : "caption" ""Wave: ""
+/// @DnDArgument : "var" "global.wave_count"
+draw_text(room_width/2, 50, string("Wave: ") + string(global.wave_count));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 334F9737
 /// @DnDArgument : "caption" ""Gold: ""
 /// @DnDArgument : "var" "global.gold"
 draw_text(0, 0, string("Gold: ") + string(global.gold));

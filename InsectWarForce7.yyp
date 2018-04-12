@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "08bb5344-5e83-4356-85f2-8c81ef27a966",
-            "Value": {
-                "id": "4d7d40b7-0b2f-4649-9035-df5372ed4431",
-                "resourcePath": "tilesets\\tile_path\\tile_path.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "0aa674cf-43da-4813-8f5e-21ac0d5d6ab6",
             "Value": {
                 "id": "179cd781-c1e6-4c3c-b987-9e33821209bc",
@@ -156,14 +148,6 @@
                 "id": "2614058c-a84f-4fe0-ba46-2cd3ecf0397d",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_missile\\Alarm_1.gml.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "12d2c116-72f5-4429-8054-06b3b744aee6",
-            "Value": {
-                "id": "10b27120-8544-4d31-9307-ca29863f09f7",
-                "resourcePath": "rooms\\Map_Two\\Map_Two.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -295,14 +279,6 @@
             }
         },
         {
-            "Key": "224d00d7-b54c-453f-bc09-e91a7748ae0c",
-            "Value": {
-                "id": "d4c57ca1-6bec-4477-bbb0-ad30e5bfc386",
-                "resourcePath": "paths\\path_map_one\\path_map_one.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
             "Key": "24bb912c-9157-4415-8fd9-551ae6507fa7",
             "Value": {
                 "id": "11a4cb55-bc33-446f-8f72-8f663df18c0c",
@@ -391,14 +367,6 @@
             }
         },
         {
-            "Key": "34e417e4-5ce5-4181-bd91-fe2935ef974f",
-            "Value": {
-                "id": "5340479f-532a-4f4e-9fd5-013227bf6b5c",
-                "resourcePath": "objects\\obj_button_next\\obj_button_next.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "34e619d2-ff61-4637-8ba1-7d8122971701",
             "Value": {
                 "id": "098957a4-01a5-4785-973b-0ddba9b64c52",
@@ -444,14 +412,6 @@
                 "id": "47ecf61a-545c-4c37-81e4-a0c73a3e447a",
                 "resourcePath": "views\\3a0e0955-ad1b-45f8-af26-be2b82bb8feb.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3bbec821-34e6-4d9d-babf-a7c8bf4e18dc",
-            "Value": {
-                "id": "61f85105-30f3-475e-8bd5-0015b0091550",
-                "resourcePath": "sprites\\spr_enemy_path\\spr_enemy_path.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -524,14 +484,6 @@
                 "id": "25dde553-e148-4175-8dc6-9a0eacee6cef",
                 "resourcePath": "datafiles_yy\\Space War\\options\\main\\inherited\\options_main.inherited.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4b5d7633-d830-4e00-a91b-8af3c39fdd92",
-            "Value": {
-                "id": "191bd067-382e-4f2e-a28a-5e5d0b4b792a",
-                "resourcePath": "sprites\\spr_enemy_centipede\\spr_enemy_centipede.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -730,7 +682,7 @@
             "Key": "651e014c-0e26-45e0-a1f6-e6f56f625ba2",
             "Value": {
                 "id": "6c4a9de0-5002-4c49-b4fe-296e7c97fff8",
-                "resourcePath": "objects\\obj_game_title\\obj_game_title.yy",
+                "resourcePath": "objects\\ob_gameTitle\\ob_gameTitle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -932,14 +884,6 @@
                 "id": "764c5ae2-e83c-4725-8a5f-e318468c8156",
                 "resourcePath": "datafiles_yy\\Space War\\objects\\obj_ship\\obj_ship.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7f431368-daa7-4a3e-9adb-2764028e47a6",
-            "Value": {
-                "id": "54c25a6a-49cb-4ff4-b084-fbc9ad30d3b8",
-                "resourcePath": "paths\\path_map_two_two\\path_map_two_two.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -1378,7 +1322,7 @@
             "Key": "c5a6aaf3-d567-418e-9429-cd58a93a04be",
             "Value": {
                 "id": "707f045c-47e4-4654-9e84-1467f77b3fd2",
-                "resourcePath": "objects\\obj_game_manager\\obj_game_manager.yy",
+                "resourcePath": "objects\\obj_leaderboard_manager\\obj_leaderboard_manager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1444,14 +1388,6 @@
                 "id": "4f10ca3d-6155-4b88-ad60-60dbd75a1ac5",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\3c394c88-db62-4424-b233-c98de1e5ba65\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "cb4dc3da-ee9a-4391-8004-bc3c7a981966",
-            "Value": {
-                "id": "52a98541-88f6-4edb-b555-dc2453ad822a",
-                "resourcePath": "paths\\path_map_two_one\\path_map_two_one.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -1628,14 +1564,6 @@
                 "id": "0d4983e2-d55b-437e-9a69-fb617c3b35e5",
                 "resourcePath": "views\\dff1a17b-38be-43e5-97d8-8ef422ac311b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e16a06a3-a430-45a4-8979-400ef065b5d2",
-            "Value": {
-                "id": "b86d94a4-5494-490a-832b-727ce1335fa9",
-                "resourcePath": "rooms\\Map_Three\\Map_Three.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

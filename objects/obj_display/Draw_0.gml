@@ -9,10 +9,9 @@ draw_set_font(font_game);
 /// @DnDVersion : 1
 /// @DnDHash : 26846900
 /// @DnDArgument : "x" "room_width/4"
-/// @DnDArgument : "y" "50"
 /// @DnDArgument : "caption" ""Wave: ""
 /// @DnDArgument : "var" "global.wave_count"
-draw_text(room_width/4, 50, string("Wave: ") + string(global.wave_count));
+draw_text(room_width/4, 0, string("Wave: ") + string(global.wave_count));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1

@@ -1,10 +1,13 @@
-text_spacing = room_height/12;
-
-draw_set_halign(fa_center);
-draw_set_valign(fa_middle);
-
-draw_set_font(font_leaderboard);
-
+if current_display == "Map One" {
+	current_display = "Map Two";
+	current_id = "room_two"
+} else if current_display == "Map Two" {
+	current_display = "Map Three";
+	current_id = "room_three"
+} else {
+	current_display = "Map One";
+	current_id = "room_one"
+}
 draw_text(room_width/2, 25,current_display + " Leaderboard")
 
 ini_open("leaderboards.ini");

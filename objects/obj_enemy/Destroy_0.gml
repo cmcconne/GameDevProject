@@ -1,2 +1,2 @@
-global.gold += 10;
+global.gold += 5;
 score += 10;

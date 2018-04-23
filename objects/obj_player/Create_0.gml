@@ -1,4 +1,4 @@
-global.gold = 0;
+global.gold = 100;
 global.wave = 1;
 global.wave_count = 1;
 global.spawn_count = 2;

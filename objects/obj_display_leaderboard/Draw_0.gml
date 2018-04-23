@@ -9,7 +9,7 @@ draw_text(room_width/2, 25,"Leaderboard")
 
 ini_open("leaderboards.ini");
 for (var i = 1; i < 11; i++) {
-	entry ="High Score #"+string(i)+": "+string(ini_read_real("Map_One", "Score"+string(i), 0));
+	entry ="High Score #"+string(i)+": "+string(ini_read_real("room_one", "Score"+string(i), 0));
 	draw_text(room_width/2, i*text_spacing, entry);
 }
 ini_close();

@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "03d08058-0d94-4bbe-9f0b-76b2351fdf3e",
+            "Value": {
+                "id": "91d9e01f-1219-4cde-bf1f-f02778c85bcd",
+                "resourcePath": "sprites\\TS_Greenlands\\TS_Greenlands.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05f910d9-331e-4dac-827b-6097a9c0aae5",
             "Value": {
                 "id": "71caf2d1-0cb5-4367-9422-09e344e6e2be",
@@ -484,6 +492,14 @@
                 "id": "e33f8021-4a8e-40a6-a8f9-0c390a12377c",
                 "resourcePath": "datafiles_yy\\Space War\\sprites\\spr_ship2\\layers\\691c3712-0ff3-4806-a4f6-c74eb67dfc24\\28b53b68-22e2-45e5-a753-bdc17e904b5a.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "482780b8-8f81-41d2-9b01-4096783d403a",
+            "Value": {
+                "id": "0efcd8de-f030-428c-a545-877784aa355a",
+                "resourcePath": "extensions\\Greenlands_Tile_Set\\Greenlands_Tile_Set.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
@@ -1343,6 +1359,14 @@
             }
         },
         {
+            "Key": "c08a00f0-60e0-42df-8a52-d96874b91e80",
+            "Value": {
+                "id": "fa2b6941-2f57-4bb1-be16-cc8fcc0f91e4",
+                "resourcePath": "sprites\\bg_tileSet\\bg_tileSet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c203830b-a3bf-4447-ba99-1bfdc2fa0ff0",
             "Value": {
                 "id": "9e01cb9f-22ef-4645-ba65-6ac283726e24",
@@ -1548,6 +1572,14 @@
                 "id": "6c87ba69-e923-415d-8474-3a0043094620",
                 "resourcePath": "datafiles_yy\\Space War\\views\\0587ec2e-f859-4db9-aea3-5288f29ffb38.yy.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d78e9ddd-f1f2-4f55-a1e7-e29fc37626e4",
+            "Value": {
+                "id": "76c8afea-0099-4fc8-9ec7-7fe53be7b60f",
+                "resourcePath": "tilesets\\tileSet_bg\\tileSet_bg.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {

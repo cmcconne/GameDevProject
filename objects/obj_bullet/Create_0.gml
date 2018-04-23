@@ -1,5 +1,5 @@
 bullet_speed = 10;
-bullet_damage = 25;
+bullet_damage = 35;
 if(instance_exists(obj_enemy) && instance_exists(obj_boss)){
 	boss = instance_nearest(x,y,obj_boss);
 	enemy = instance_nearest(x, y, obj_enemy);

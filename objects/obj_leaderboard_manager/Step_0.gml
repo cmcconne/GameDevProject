@@ -1,8 +1,9 @@
 if global.game_over {
+	final_score = score+global.gold+health;
 	ini_open("leaderboards.ini");
 	for (var i = 1; i < 11; i++) {
-		if score > ini_read_real(room_get_name(room), "Score"+string(i), 0) {
-			ini_write_real(room_get_name(room), "Score"+string(i), score+global.gold);
+		if final_score > ini_read_real(room_get_name(room), "Score"+string(i), 0) {
+			ini_write_real(room_get_name(room), "Score"+string(i), final_score);
 			break;
 		}
 	}

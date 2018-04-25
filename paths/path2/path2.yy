@@ -5,7 +5,7 @@
     "name": "path2",
     "closed": false,
     "hsnap": 0,
-    "kind": 0,
+    "kind": 1,
     "points": [
         {
             "id": "2b0975a3-5be6-4660-a0dd-48e53faa73c6",
@@ -56,6 +56,6 @@
             "speed": 100
         }
     ],
-    "precision": 4,
+    "precision": 8,
     "vsnap": 0
 }

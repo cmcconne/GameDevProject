@@ -5,8 +5,10 @@ if(global.next_wave ==true){
 		if global.spawn_rate > 25
 			global.spawn_rate =global.spawn_rate-2;
 
-	if (global.wave ==3 ||global.wave == 6 || global.wave == 9)
+	if (global.wave ==3 ||global.wave == 6 || global.wave == 9){
 		global.enemy_Health+=50;
+		global.enemy_sprite = sprite_enemy_hp_up;
+	}
 
 	if(global.wave == 1 || global.wave == 5 || global.wave == 7 || global.wave == 9)
 		global.spawn_count = global.spawn_count + 5;

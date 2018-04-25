@@ -5,7 +5,7 @@
     "name": "path1",
     "closed": false,
     "hsnap": 0,
-    "kind": 0,
+    "kind": 1,
     "points": [
         {
             "id": "87691f6b-ab1f-4bf3-a9b3-4d0ffe7718a5",

@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "266c85a4-f975-48fb-a03e-6e0375b2a82d",
+            "Value": {
+                "id": "3ebd1fe0-a08e-4344-a52d-7b42bd7a74e0",
+                "resourcePath": "sprites\\TS_Greenlands1\\TS_Greenlands1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2741b755-e9bd-44aa-a40f-c2b696471aaf",
             "Value": {
                 "id": "186f1833-7520-43d9-9534-2cd4d02db67f",
@@ -403,6 +411,14 @@
             "Value": {
                 "id": "0803af0f-19ef-4494-9e47-01d524c94753",
                 "resourcePath": "views\\355325e1-4e6b-47c5-9d59-d50340737b6b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35d4c3eb-2285-421c-9578-c4ebd248afc2",
+            "Value": {
+                "id": "82115960-8873-4433-a0eb-22eb4648d592",
+                "resourcePath": "views\\35d4c3eb-2285-421c-9578-c4ebd248afc2.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1183,6 +1199,14 @@
             }
         },
         {
+            "Key": "a6aa3a34-e745-461b-a9fa-22ad159d4fb9",
+            "Value": {
+                "id": "5744b034-7018-46ba-bc71-0ae6d639a163",
+                "resourcePath": "sprites\\FREE_tile_packs_4\\FREE_tile_packs_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a705520c-5126-4eaf-878b-77facc423649",
             "Value": {
                 "id": "2f510950-f1c5-476e-a42c-6bef472f09d2",
@@ -1551,6 +1575,14 @@
             }
         },
         {
+            "Key": "d27c41cc-f1be-4e8b-a7cf-478e7bf87eb0",
+            "Value": {
+                "id": "f79ae99c-e5a3-4e7e-af82-7373405ff3eb",
+                "resourcePath": "views\\ad5bb652-98a5-439e-a7dd-6c996b0d1672-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d2b57a37-235f-4ac3-b8a3-e139f8d0c3c0",
             "Value": {
                 "id": "2e114321-6e75-49e8-9f6d-adec353cb894",
@@ -1588,6 +1620,14 @@
                 "id": "d1efe4d2-0090-4c50-803a-7338465312d6",
                 "resourcePath": "views\\d8c16e48-a1ea-4c0e-891c-6ec13b247d37.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d9649e83-ba2a-4951-a35f-f6feee9c9e78",
+            "Value": {
+                "id": "743ddacf-49dc-4a92-b205-53f476ef1a3a",
+                "resourcePath": "tilesets\\tileSet_bg2\\tileSet_bg2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -1852,6 +1892,14 @@
                 "id": "4029f0c2-2f71-4f7a-93fb-1da8193f62a3",
                 "resourcePath": "paths\\path0\\path0.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "f7f8ef46-9668-471d-a44b-27bf1cd4c922",
+            "Value": {
+                "id": "e3c7dc1d-ebef-4bc6-864b-446db7b187bb",
+                "resourcePath": "sprites\\sprite_enemy_hp_up\\sprite_enemy_hp_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

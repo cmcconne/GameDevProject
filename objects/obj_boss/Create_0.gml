@@ -1,4 +1,4 @@
-enemy_health = global.enemy_Health*10;
+enemy_health = global.enemy_Health*5;
 if room == room_one {
 	path_start(path0, 5, path_action_stop, true);
 } else if room == room_two {
